@@ -1,0 +1,14 @@
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\bin\Debug\net8.0\ex18.exe
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\bin\Debug\net8.0\ex18.deps.json
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\bin\Debug\net8.0\ex18.runtimeconfig.json
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\bin\Debug\net8.0\ex18.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\bin\Debug\net8.0\ex18.pdb
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.AssemblyInfoInputs.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.AssemblyInfo.cs
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.csproj.CoreCompileInputs.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\refint\ex18.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.pdb
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ex18.genruntimeconfig.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\ex18\obj\Debug\net8.0\ref\ex18.dll

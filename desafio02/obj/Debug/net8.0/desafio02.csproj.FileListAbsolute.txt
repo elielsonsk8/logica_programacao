@@ -1,0 +1,15 @@
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\bin\Debug\net8.0\desafio02.exe
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\bin\Debug\net8.0\desafio02.deps.json
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\bin\Debug\net8.0\desafio02.runtimeconfig.json
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\bin\Debug\net8.0\desafio02.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\bin\Debug\net8.0\desafio02.pdb
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.AssemblyInfoInputs.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.AssemblyInfo.cs
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.csproj.CoreCompileInputs.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.sourcelink.json
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\refint\desafio02.dll
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.pdb
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\desafio02.genruntimeconfig.cache
+C:\Users\elielson.fsilva\Desktop\logica_programacao_seg_qua_noite-main\desafio02\obj\Debug\net8.0\ref\desafio02.dll

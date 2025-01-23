@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2CAA56E-5147-4E5D-A5E3-D8537A7D7530}|ex28\\ex28.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CAA56E-5147-4E5D-A5E3-D8537A7D7530}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0BE953-3681-432F-8A4F-7187D5F0C337}|desafio03\\desafio03.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0BE953-3681-432F-8A4F-7187D5F0C337}|desafio03\\desafio03.csproj|solutionrelative:desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9FBF93-AD57-443D-89EF-E10653EF6DA6}|desafio04\\desafio04.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9FBF93-AD57-443D-89EF-E10653EF6DA6}|desafio04\\desafio04.csproj|solutionrelative:desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9A19C0-2054-47D6-9FD8-6C91116FB6A2}|desafio02\\desafio02.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\desafio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9A19C0-2054-47D6-9FD8-6C91116FB6A2}|desafio02\\desafio02.csproj|solutionrelative:desafio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1E0D86-2042-4F3A-BEB2-EB268E2B0A73}|desafio\\desafio.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1E0D86-2042-4F3A-BEB2-EB268E2B0A73}|desafio\\desafio.csproj|solutionrelative:desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE172-FB26-463A-9CF1-0ACB7B38C37C}|ex10\\ex10.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE172-FB26-463A-9CF1-0ACB7B38C37C}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2E2CB5-22C4-408F-96BA-019C940188AA}|ex09\\ex09.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2E2CB5-22C4-408F-96BA-019C940188AA}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C7883D-EB85-4A1E-8869-1CBE36B6C897}|ex08\\ex08.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C7883D-EB85-4A1E-8869-1CBE36B6C897}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94B14D01-945B-43FE-8A8B-0CAAFBDA7678}|ex27\\ex27.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B14D01-945B-43FE-8A8B-0CAAFBDA7678}|ex27\\ex27.csproj|solutionrelative:ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAA56E-5147-4E5D-A5E3-D8537A7D7530}|ex28\\ex28.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CAA56E-5147-4E5D-A5E3-D8537A7D7530}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B525D43-FC3E-4586-AF2D-00A96614778D}|ex29\\ex29.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B525D43-FC3E-4586-AF2D-00A96614778D}|ex29\\ex29.csproj|solutionrelative:ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E6132-97A5-40D6-B223-E42C929454B2}|ex26\\ex26.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{D8B41320-286E-477F-9297-A7F52160ABE5}|ex17\\ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71CBE172-FB26-463A-9CF1-0ACB7B38C37C}|ex10\\ex10.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CBE172-FB26-463A-9CF1-0ACB7B38C37C}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CB8119F-07BB-45E4-AA58-B00F3890F3AF}|ex11\\ex11.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CB8119F-07BB-45E4-AA58-B00F3890F3AF}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,26 +119,6 @@
       "RelativeMoniker": "D:0:0:{D854EE22-5F23-4FC4-98E8-0A7B02F2A251}|ex15\\ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A2E2CB5-22C4-408F-96BA-019C940188AA}|ex09\\ex09.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A2E2CB5-22C4-408F-96BA-019C940188AA}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C036F926-BBAB-4E84-8163-840E14F73C62}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77C7883D-EB85-4A1E-8869-1CBE36B6C897}|ex08\\ex08.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77C7883D-EB85-4A1E-8869-1CBE36B6C897}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7CC133-3037-4FFE-B753-99D69397F2E8}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0FDC3BB-8D45-4984-A971-2C357D95A83C}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A514A850-7BAF-4164-B9DC-A78F415C6826}|ex04\\ex04.csproj|c:\\users\\elielson.fsilva\\desktop\\logica_programacao_seg_qua_noite-main\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A514A850-7BAF-4164-B9DC-A78F415C6826}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -110,11 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex19\\Program.cs",
               "RelativeDocumentMoniker": "ex19\\Program.cs",
@@ -123,25 +143,89 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:12:49.954Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio04\\Program.cs",
+              "RelativeDocumentMoniker": "desafio04\\Program.cs",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio04\\Program.cs",
+              "RelativeToolTip": "desafio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:25:28.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio03\\Program.cs",
+              "RelativeDocumentMoniker": "desafio03\\Program.cs",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio03\\Program.cs*",
+              "RelativeToolTip": "desafio03\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:00:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio02\\Program.cs",
+              "RelativeDocumentMoniker": "desafio02\\Program.cs",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio02\\Program.cs",
+              "RelativeToolTip": "desafio02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:40:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio\\Program.cs",
+              "RelativeDocumentMoniker": "desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\desafio\\Program.cs",
+              "RelativeToolTip": "desafio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:28:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex29\\Program.cs",
+              "RelativeDocumentMoniker": "ex29\\Program.cs",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex29\\Program.cs",
+              "RelativeToolTip": "ex29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:58:05.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex28\\Program.cs",
               "RelativeDocumentMoniker": "ex28\\Program.cs",
-              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex28\\Program.cs*",
-              "RelativeToolTip": "ex28\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex28\\Program.cs",
+              "RelativeToolTip": "ex28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:40:15.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex27\\Program.cs",
               "RelativeDocumentMoniker": "ex27\\Program.cs",
@@ -154,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex26\\Program.cs",
               "RelativeDocumentMoniker": "ex26\\Program.cs",
@@ -162,12 +246,11 @@
               "RelativeToolTip": "ex26\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:35:10.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:35:10.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex25\\Program.cs",
               "RelativeDocumentMoniker": "ex25\\Program.cs",
@@ -175,12 +258,11 @@
               "RelativeToolTip": "ex25\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:32:18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:32:18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex24\\Program.cs",
               "RelativeDocumentMoniker": "ex24\\Program.cs",
@@ -188,12 +270,11 @@
               "RelativeToolTip": "ex24\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:25:17.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:25:17.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\23\\Program.cs",
               "RelativeDocumentMoniker": "23\\Program.cs",
@@ -201,12 +282,11 @@
               "RelativeToolTip": "23\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:21:23.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:21:23.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex22\\Program.cs",
               "RelativeDocumentMoniker": "ex22\\Program.cs",
@@ -214,12 +294,11 @@
               "RelativeToolTip": "ex22\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:19:54.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:19:54.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex21\\Program.cs",
               "RelativeDocumentMoniker": "ex21\\Program.cs",
@@ -227,12 +306,11 @@
               "RelativeToolTip": "ex21\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:18:23.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:18:23.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex20\\Program.cs",
               "RelativeDocumentMoniker": "ex20\\Program.cs",
@@ -240,12 +318,11 @@
               "RelativeToolTip": "ex20\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:16:57.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:16:57.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex18\\Program.cs",
               "RelativeDocumentMoniker": "ex18\\Program.cs",
@@ -253,12 +330,11 @@
               "RelativeToolTip": "ex18\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:09:00.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:09:00.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex17\\Program.cs",
               "RelativeDocumentMoniker": "ex17\\Program.cs",
@@ -266,12 +342,11 @@
               "RelativeToolTip": "ex17\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:31:52.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:31:52.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex16\\Program.cs",
               "RelativeDocumentMoniker": "ex16\\Program.cs",
@@ -279,12 +354,11 @@
               "RelativeToolTip": "ex16\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:26:37.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:26:37.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex15\\Program.cs",
               "RelativeDocumentMoniker": "ex15\\Program.cs",
@@ -292,12 +366,11 @@
               "RelativeToolTip": "ex15\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:15:28.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:15:28.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex14\\Program.cs",
               "RelativeDocumentMoniker": "ex14\\Program.cs",
@@ -305,12 +378,11 @@
               "RelativeToolTip": "ex14\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T22:59:12.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:59:12.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex13\\Program.cs",
               "RelativeDocumentMoniker": "ex13\\Program.cs",
@@ -318,12 +390,11 @@
               "RelativeToolTip": "ex13\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T22:50:40.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:50:40.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex12\\Program.cs",
               "RelativeDocumentMoniker": "ex12\\Program.cs",
@@ -331,12 +402,11 @@
               "RelativeToolTip": "ex12\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T22:46:16.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:46:16.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex11\\Program.cs",
               "RelativeDocumentMoniker": "ex11\\Program.cs",
@@ -344,12 +414,11 @@
               "RelativeToolTip": "ex11\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T22:40:50.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:40:50.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex10\\Program.cs",
               "RelativeDocumentMoniker": "ex10\\Program.cs",
@@ -362,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex09\\Program.cs",
               "RelativeDocumentMoniker": "ex09\\Program.cs",
@@ -375,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex08\\Program.cs",
               "RelativeDocumentMoniker": "ex08\\Program.cs",
@@ -388,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
@@ -401,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
@@ -409,23 +478,25 @@
               "RelativeToolTip": "ex06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:47:31.519Z"
+              "WhenOpened": "2025-01-16T00:47:31.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
               "ToolTip": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex05\\Program.cs",
               "RelativeToolTip": "ex05\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:37:50.403Z"
+              "WhenOpened": "2025-01-15T21:37:50.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elielson.fsilva\\Desktop\\logica_programacao_seg_qua_noite-main\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
